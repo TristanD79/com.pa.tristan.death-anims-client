@@ -1,0 +1,23 @@
+{
+  "context": "client",
+  "identifier": "com.pa.tristan.death-anims-client",
+  "display_name": "Death Animations",
+  "description": "Adds additional death animations to units that do not have them.",
+  "author": "Tristan",
+  "version": "0.1",
+  "build": "116931",
+  "date": "2023-06-12",
+  "signature": "not yet implemented",
+  "forum": "",
+  "icon": "https://i.postimg.cc/RZKr9hY4/death-anims-logo230.gifg",
+  "priority": 100,
+  "category": [
+    "titans",
+    "units"
+  ],
+  "scenes": {
+    "shared_build": [
+      "coui://ui/mods/com.pa.tristan.death-anims/shared_build.js"
+    ]
+  }
+}
