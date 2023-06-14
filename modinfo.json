@@ -6,14 +6,15 @@
   "author": "Tristan",
   "version": "0.1",
   "build": "116931",
-  "date": "2023-06-12",
+  "date": "2023-06-13",
   "signature": "not yet implemented",
-  "forum": "",
+  "forum": "https://steamcommunity.com/app/386070/discussions/0/3814033305515660080/",
   "icon": "https://i.postimg.cc/RZKr9hY4/death-anims-logo230.gifg",
   "priority": 100,
   "category": [
     "titans",
-    "units"
+    "effects",
+    "animations"
   ],
   "scenes": {
     "shared_build": [

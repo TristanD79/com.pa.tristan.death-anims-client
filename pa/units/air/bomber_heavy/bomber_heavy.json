@@ -5,6 +5,7 @@
     "max_health": 3000,
     "build_metal_cost": 3300,
     "unit_types": [
+        "UNITTYPE_Custom58",
         "UNITTYPE_Bomber",
         "UNITTYPE_Mobile",
         "UNITTYPE_Offense",
